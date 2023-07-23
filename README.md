@@ -3,7 +3,7 @@
 I'm a passionate and dedicated software developer with a knack for learning and implementing new technologies. I have a strong background in JavaScript, TypeScript, Node.js, Git, and GitHub. I love creating intuitive and dynamic user interfaces using Figma, CSS, and SCSS.
 
 <details>
-<summary><b>My Tech Stack 🛠️</b></summary>## My Tech Stack 🛠️
+<summary><b>My Tech Stack 🛠️</b></summary>
 
 ### Frontend:
 
