@@ -11,6 +11,7 @@ I'm a passionate and dedicated software developer with a knack for learning and 
 - **TypeScript**: I use TypeScript for static typing in JavaScript, which helps me write more robust code.
 - **React**: I have experience in building applications using React, both in its native form and with Redux and Flux for state management.
 - **Angular**: I have also worked with Angular, another powerful JavaScript framework.
+- **Bootstrap: To apply styles to components.
 - **Figma, CSS, SCSS**: I use these tools to design and style my applications.
 
 ### Backend:
