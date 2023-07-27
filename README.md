@@ -1,4 +1,9 @@
-# Hello, I'm Marco aka MarzBoi! 👋
+<h1 align="center">Hi 👋, I'm Marco Fratini</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcoafratini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcoafratini/" height="30" width="40" /></a>
+<a href="https://discord.gg/marzboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marzboi" height="30" width="40" /></a>
+</p>
 
 I'm a passionate and dedicated software developer with a knack for learning and implementing new technologies. I have a strong background in JavaScript, TypeScript, Node.js, Git, and GitHub. I love creating intuitive and dynamic user interfaces using Figma, CSS, and SCSS.
 
