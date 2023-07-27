@@ -5,6 +5,8 @@ I'm a passionate and dedicated software developer with a knack for learning and 
 <details>
 <summary><b>My Tech Stack 🛠️</b></summary>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,vite,nodejs, netlify,nestjs,git)](https://skillicons.dev)
+
 ### Frontend:
 
 - **JavaScript**: I have a solid understanding of JavaScript and have worked extensively with it in various projects.
@@ -30,8 +32,9 @@ I'm a passionate and dedicated software developer with a knack for learning and 
 ### Real-Time Communication:
 
 - **Socket.IO**: I have used Socket.IO in both frontend and backend for real-time updates.
+</details>
 
 ## Connect with me 🌐
 
 Feel free to reach out to me if you have any questions, or if you just want to chat about tech! You can connect with me on [LinkedIn](https://www.linkedin.com/in/marcoafratini/)
-</details>
+
