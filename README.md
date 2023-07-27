@@ -5,8 +5,6 @@ I'm a passionate and dedicated software developer with a knack for learning and 
 <details>
 <summary><b>My Tech Stack 🛠️</b></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,vite,nodejs, netlify,nestjs,git)](https://skillicons.dev)
-
 ### Frontend:
 
 - **JavaScript**: I have a solid understanding of JavaScript and have worked extensively with it in various projects.
